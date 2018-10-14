@@ -7,7 +7,7 @@
 
 # Smart contracts
 
-## [Token EVEN](https://github.com/Dmitx/Even_Smart_Contracts/blob/master/contracts/EvenToken.sol)
+## [Token EVEN](https://github.com/Hashlabtech/Even-Smart-Contracts/blob/master/contracts/EvenToken.sol)
 ERC20 mintable and capped token
 
 Token Parameter | Value
