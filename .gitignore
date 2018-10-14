@@ -1,0 +1,7 @@
+.idea
+build
+test
+truffle.js
+truffle-config.js
+
+node_modules
